@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="relativity.php">relativity.php</h1>
 <p>Google Analytics Post Relativity Plugin. Configured for Wordpress but can be reconfigured for any B2C php site. This code set assigns a relative score based on standard deviated statistics and allows you to organize your posts/ web-content in a more automated fashion.</p>
